@@ -56,3 +56,11 @@ print(bedan)
 # exponents don't have to be integers. They can also be float
 benar0 = 3**1.3
 print(benar0)
+# raising a number to a negative
+# Raisinganumbertoanegativepoweristhesameasdividing1bythe number raised to the positive power
+benar1 = 45**-3
+print(benar1)
+# the Modulus Operator
+# returns the remainder of dividing the left operand by the right operand
+benar2 = 37 % 3
+print(benar2)
